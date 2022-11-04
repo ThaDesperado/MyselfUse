@@ -181,7 +181,8 @@ DOMAIN-SUFFIX,yangkeduo.com
 DOMAIN-SUFFIX,zhangzishi.cc
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
-DOMAIN-SUFFIX,zhuihd.com
+DOMAIN-SUFFIX,app.dewu.com
+DOMAIN-KEYWORD,dewu
 DOMAIN,download.jetbrains.com
 DOMAIN-SUFFIX,local
 IP-CIDR,192.168.0.0/16
