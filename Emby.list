@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,nl.pololine.ml
 DOMAIN-SUFFIX,auto.dnslink.ml
 DOMAIN-SUFFIX,sf.poloemby.xyz
 DOMAIN-SUFFIX,scf.poloemby.xyz
+DOMAIN-SUFFIX,kr.poloemby.xyz
 DOMAIN-SUFFIX,cf2.misakaf.org
 DOMAIN-SUFFIX,emby.misakaf.xyz
 DOMAIN-SUFFIX,cdn.misakaf.org
@@ -60,6 +61,9 @@ DOMAIN-SUFFIX,push-kr.misakaf.org
 DOMAIN-SUFFIX,102.223.180.108
 DOMAIN-SUFFIX,789.123456.al
 DOMAIN-SUFFIX,bili.bili.rip
+DOMAIN-SUFFIX,cf.bili.rip
+DOMAIN-SUFFIX,kr.bili.rip
+DOMAIN-SUFFIX,152.70.239.210
 DOMAIN-SUFFIX,embyjp.bili.rip
 DOMAIN-SUFFIX,embyus.bili.rip
 DOMAIN-SUFFIX,usa.bili.rip
@@ -69,6 +73,7 @@ DOMAIN-SUFFIX,kr.bili.rip
 DOMAIN-SUFFIX,embyx.one
 DOMAIN-SUFFIX,us.embyx.one
 DOMAIN-SUFFIX,emby.speedx.one
+DOMAIN-SUFFIX,direct.mjjemby.org
 DOMAIN-SUFFIX,de.mjjemby.org
 DOMAIN-SUFFIX,cf.mjjemby.org
 DOMAIN-SUFFIX,sg01.mjjemby.org
@@ -88,3 +93,5 @@ DOMAIN-SUFFIX,sg.imetyou.top
 DOMAIN-SUFFIX,chun.imetyou.top
 DOMAIN-SUFFIX,chunmusic.imetyou.top
 DOMAIN-SUFFIX,music.imetyou.top
+DOMAIN-SUFFIX,emby.bangumi.ca
+DOMAIN-SUFFIX,auth.nyamedia.tv
