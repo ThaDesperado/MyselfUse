@@ -56,6 +56,8 @@ DOMAIN-SUFFIX,emby.misakaf.xyz
 DOMAIN-SUFFIX,cdn.misakaf.org
 DOMAIN-SUFFIX,emby2.misakaf.org
 DOMAIN-SUFFIX,cdn2.misakaf.org
+DOMAIN-SUFFIX,push-kr.misakaf.org
+IP-CIDR,102.223.180.108
 DOMAIN-SUFFIX,789.123456.al
 DOMAIN-SUFFIX,bili.bili.rip
 DOMAIN-SUFFIX,embyjp.bili.rip
