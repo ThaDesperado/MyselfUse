@@ -70,6 +70,7 @@ DOMAIN-SUFFIX,usa.bili.rip
 DOMAIN-SUFFIX,fuck.nvidia.rip
 DOMAIN-SUFFIX,4837.bili.rip
 DOMAIN-SUFFIX,kr.bili.rip
+DOMAIN-SUFFIX,cdn.bili.rip
 DOMAIN-SUFFIX,embyx.one
 DOMAIN-SUFFIX,us.embyx.one
 DOMAIN-SUFFIX,emby.speedx.one
@@ -95,3 +96,5 @@ DOMAIN-SUFFIX,chunmusic.imetyou.top
 DOMAIN-SUFFIX,music.imetyou.top
 DOMAIN-SUFFIX,emby.bangumi.ca
 DOMAIN-SUFFIX,auth.nyamedia.tv
+DOMAIN-SUFFIX,cf.xmsl.org
+DOMAIN-SUFFIX,free.xmsl.org
