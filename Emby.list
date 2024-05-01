@@ -60,6 +60,9 @@ DOMAIN-SUFFIX,cdn2.misakaf.org
 DOMAIN-SUFFIX,push-kr.misakaf.org
 DOMAIN-SUFFIX,102.223.180.108
 DOMAIN-SUFFIX,789.123456.al
+DOMAIN-SUFFIX,stream1.misakaf.org
+DOMAIN-SUFFIX,stream2.misakaf.org
+DOMAIN-SUFFIX,stream3.misakaf.org
 DOMAIN-SUFFIX,stream4.misakaf.org
 DOMAIN-SUFFIX,bili.bili.rip
 DOMAIN-SUFFIX,cf.bili.rip
