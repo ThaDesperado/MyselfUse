@@ -1,4 +1,4 @@
-## 分类
+# 分类
 
 
 |📵Advertising|  |  |  |  |
@@ -28,3 +28,7 @@
 | ---- | ---- | ---- | ---- | ---- |
 |[Bilibili](https://github.com/ThaDesperado/MyselfUse/blob/main/Clash/Rule/Bilibili.list) |[Download](https://github.com/ThaDesperado/MyselfUse/blob/main/Clash/Rule/Download.list) |[NetEaseMusic](https://github.com/ThaDesperado/MyselfUse/blob/main/Clash/Rule/NetEaseMusic.list) |[PT](https://github.com/ThaDesperado/MyselfUse/blob/main/Clash/Rule/PT.list) |[iQiyi](https://github.com/ThaDesperado/MyselfUse/blob/main/Clash/Rule/iQiyi.list) ||||
 |[quanqiuzhilian](https://github.com/ThaDesperado/MyselfUse/blob/main/Clash/Rule/quanqiuzhilian.list) |[China-Media](https://github.com/ThaDesperado/MyselfUse/blob/main/Clash/Rule/China-Media.list) |[China-Websites](https://github.com/ThaDesperado/MyselfUse/blob/main/Clash/Rule/China-Websites.list) |||
+
+
+# 注：
+* 以上所有规则均为本人在GitHub上寻找的各位大佬写好归纳好的（包括本README.MD的写法），一切均为本人自用，无任何盈利行为，感谢各位大佬！
