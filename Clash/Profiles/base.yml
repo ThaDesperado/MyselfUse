@@ -19,9 +19,6 @@ dns:
     - '*.lan'
     - "+.local"
     - localhost.ptlogin2.qq.com
-    - "dns.msftncsi.com"
-    - "www.msftncsi.com"
-    - "www.msftconnecttest.com"
   default-nameserver:
     - tls://1.12.12.12
     - 223.5.5.5
