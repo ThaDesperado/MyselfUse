@@ -50,3 +50,15 @@ IP-CIDR,223.252.192.0/19,no-resolve
 IP-CIDR,223.252.199.66/31,no-resolve
 IP-CIDR,223.252.199.66/32,no-resolve
 IP-CIDR,223.252.199.67/32,no-resolve
+# 看了ddgksf2013写的后新加入的
+# REPO: https://raw.githubusercontent.com/ddgksf2013/Filter/master/NeteaseMusic.list
+HOST,iadmat.nosdn.127.net,NetEaseMusic
+HOST-KEYWORD,netease,NetEaseMusic
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90**,NetEaseMusic
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,NetEaseMusic
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90,NetEaseMusic
+USER-AGENT,NetEaseMusic**,NetEaseMusic
+USER-AGENT,NetEaseMusic*,NetEaseMusic
+USER-AGENT,NetEaseMusic**,NetEaseMusic
+USER-AGENT,NetEaseMusic*,NetEaseMusic
+IP-CIDR,103.126.92.13/32,NetEaseMusic
