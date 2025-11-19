@@ -54,6 +54,7 @@ DOMAIN-SUFFIX,scf.poloemby.xyz
 DOMAIN-SUFFIX,kr.poloemby.xyz
 DOMAIN-SUFFIX,fun.poloemby.xyz
 DOMAIN-SUFFIX,auto.polodns.xyz
+DOMAIN-SUFFIX,l.poloemby.xyz
 DOMAIN-SUFFIX,cf2.misakaf.org
 DOMAIN-SUFFIX,emby.misakaf.xyz
 DOMAIN-SUFFIX,cdn.misakaf.org
@@ -160,4 +161,5 @@ DOMAIN-SUFFIX,plusus3.younoyes.com
 DOMAIN-SUFFIX,plushk1.younoyes.com
 DOMAIN-SUFFIX,plushk2.younoyes.com
 DOMAIN-SUFFIX,test.younoyes.com
+
 
